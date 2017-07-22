@@ -27,7 +27,7 @@ There is also a Playground.ipynb file used for testing and debuging.
 
 Bellow are the steps to achieve this [result](https://www.youtube.com/watch?v=Aej0myN8Ksc)
 
-### 1. Feature extraction from the training images.
+### 1. Feature extraction from training images.
 
 To extract features of vehicle and non-vehicle I used the KITTI vision benchmark suite and GTI vehicle image database. The dataset contains a good amount to images (8792 for vehicles and 8968 for non-vehicles) that can train a model to achieve good detection results. 
 
